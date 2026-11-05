@@ -1,0 +1,14 @@
+CO2 Calculator
+Features
+Transport emissions – Estimate CO₂ from travel by car, bus, train, or flight
+Electricity emissions – Estimate CO₂ from household/grid electricity usage
+Book printing estimate – Rough CO₂ impact based on number of pages (useful alongside the Book Manager project)
+All emission factors are approximate and intended for educational/demonstration purposes only.
+Emission Factors Used
+Activity	Factor	Notes
+Car (petrol)	0.20 kg CO₂e / km	Average passenger car
+Bus	0.10 kg CO₂e / km	Shared public transport
+Train	0.04 kg CO₂e / km	Electric/rail average
+Flight	0.25 kg CO₂e / km	Short-to-medium haul average
+Electricity	0.40 kg CO₂e / kWh	Varies significantly by country
+Book printing	~0.0007 kg / page	Rough paper + printing estimate
